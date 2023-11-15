@@ -2702,8 +2702,16 @@ video {
     margin-right: auto;
   }
 
+  .\32xl\:w-full {
+    width: 100%;
+  }
+
   .\32xl\:max-w-\[1800px\] {
     max-width: 1800px;
+  }
+
+  .\32xl\:pl-4 {
+    padding-left: 1rem;
   }
 
   .\32xl\:pl-\[220px\] {
