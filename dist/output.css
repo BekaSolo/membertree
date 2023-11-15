@@ -2702,18 +2702,6 @@ video {
     margin-right: auto;
   }
 
-  .\32xl\:ml-\[160px\] {
-    margin-left: 160px;
-  }
-
-  .\32xl\:min-w-\[400px\] {
-    min-width: 400px;
-  }
-
-  .\32xl\:max-w-\[1800px\] {
-    max-width: 1800px;
-  }
-
   .\32xl\:max-w-7xl {
     max-width: 80rem;
   }
