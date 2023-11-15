@@ -2702,8 +2702,8 @@ video {
     margin-right: auto;
   }
 
-  .\32xl\:max-w-7xl {
-    max-width: 80rem;
+  .\32xl\:max-w-\[1800px\] {
+    max-width: 1800px;
   }
 
   .\32xl\:pl-\[220px\] {
