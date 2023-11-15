@@ -2697,6 +2697,11 @@ video {
 }
 
 @media (min-width: 1536px) {
+  .\32xl\:mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .\32xl\:ml-\[160px\] {
     margin-left: 160px;
   }
@@ -2707,6 +2712,10 @@ video {
 
   .\32xl\:max-w-\[1800px\] {
     max-width: 1800px;
+  }
+
+  .\32xl\:max-w-7xl {
+    max-width: 80rem;
   }
 
   .\32xl\:pl-\[220px\] {
